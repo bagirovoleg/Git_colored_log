@@ -5,7 +5,7 @@
 > [!TIP]
 > git config --global alias.logshort "log --pretty=format:'%C(yellow)%h %Cred%ad %Creset| %Cgreen%s%d %Cblue(%an)' --graph --date=short".
 
-> > [!IMPORTANT]
->code ~/.gitconfig.
+> [!IMPORTANT]
+> code ~/.gitconfig.
 
 ![ ](https://github.com/bagirovoleg/Git_colored_log/blob/main/COLOR_LOG.png)
