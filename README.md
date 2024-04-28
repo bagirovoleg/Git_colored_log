@@ -10,4 +10,4 @@
 > [!IMPORTANT]
 > code ~/.gitconfig.
 
-![ ](https://github.com/bagirovoleg/Git_colored_log/blob/main/COLOR_LOG.png)
+![ ](https://github.com/bagirovoleg/Git_colored_log/blob/main/COLOR_LOG_v1.png)
